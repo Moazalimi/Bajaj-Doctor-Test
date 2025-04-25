@@ -5,7 +5,6 @@ import { BrowserRouter } from 'react-router-dom';
 import ErrorBoundary from './components/ErrorBoundary';
 // @ts-ignore
 import './styles/main.css';
-import '@fortawesome/fontawesome-free/css/all.min.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
     <React.StrictMode>
